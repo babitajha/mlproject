@@ -19,7 +19,7 @@ class CustomException(Exception):
         return self.error_message
     
 
-#Testing
+#Testinggit
 """if __name__ == "__main__":
     try:
         a = 1/0
